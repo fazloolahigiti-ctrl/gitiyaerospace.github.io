@@ -1,4 +1,4 @@
-# gitiy aerospace.github.io
+# giti aerospace.github.io
 Hi, I'm Gity.
 
 I am a student interested in Aerospace Engineering and Astronomy.
